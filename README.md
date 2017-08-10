@@ -19,3 +19,4 @@ There is no funcionality added of interaction capable on this ver. It is an stat
 ```
 ###### Additional information.
 The document has been formated and styled using CSS.
+The project can be viewed by visiting [udacity001](http://john00123.github.io/udacity001)
